@@ -10,7 +10,7 @@ A relatively small noVNC (web-based) desktop Docker image
 * Includes basic utilities such as `ssh`, `curl` etc.
 * Total image size - 732MB
 
-This Dockerfile is derived from [how-to-remotely-access-gui-applications-using-docker-and-caddy-on-debian-9](https://www.digitalocean.com/community/tutorials/how-to-remotely-access-gui-applications-using-docker-and-caddy-on-debian-9)
+This Dockerfile is derived from <a href="https://www.digitalocean.com/community/tutorials/how-to-remotely-access-gui-applications-using-docker-and-caddy-on-debian-9" target="_blank">how-to-remotely-access-gui-applications-using-docker-and-caddy-on-debian-9</a>
 
 ## Screenshots
 
