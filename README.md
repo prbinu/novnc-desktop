@@ -1,6 +1,8 @@
 # novnc-desktop
 A relatively small noVNC (web-based) desktop Docker image
 
+Docker image: https://hub.docker.com/r/prbinu/novnc-desktop
+
 ## Features
 * Ubuntu Focal Docker base image
 * [easy-novnc](https://github.com/pgaskin/easy-novnc) - A Golang based noVNC binary
